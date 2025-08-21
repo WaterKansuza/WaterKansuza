@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HaoQuang-WaterKansuza</h1>
 <h3 align="center">A passionate developer from VietNam</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python**, **C/C++**
 
 - 📫 How to reach me **haoquang.cbq@gmail.com**
 
