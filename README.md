@@ -82,6 +82,37 @@ $ ./status --now
 
 <p align="center"><img src="data/divider.svg" width="100%" alt="" /></p>
 
+
+<!-- ============ TROPHIES ============ -->
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WaterKansuza&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="trophies" />
+</p> -->
+
+<p align="center"><img src="data/divider.svg" width="100%" alt="" /></p>
+
+<!-- ============ CODING PROFILES ============ -->
+## 🧩 Competitive Programming
+
+<div align="center">
+
+<a href="https://leetcode.com/u/WaterKansuza/">
+  <img src="https://leetcard.jacoblin.cool/WaterKansuza?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats" />
+</a>
+
+<!-- <a href="https://www.hackerrank.com/profile/WaterKansuza">
+  <img src="data/badge-python.svg" width="90" alt="HackerRank Python 4-star badge" />
+</a> -->
+
+</div>
+<div align="center">
+<a href="https://www.hackerrank.com/profile/WaterKansuza">
+  <img src="https://img.shields.io/badge/HackerRank-WaterKansuza-58A6FF?style=for-the-badge&logo=hackerrank&logoColor=0D1117&labelColor=0D1117" alt="HackerRank" />
+</a>
+<a href="http://oj.28tech.com.vn/user/WaterKansuza">
+  <img src="https://img.shields.io/badge/28tech%20OJ-WaterKansuza-58A6FF?style=for-the-badge&labelColor=0D1117" alt="28tech OJ" />
+</a>
+</div>
+
 <!-- ============ ACTIVITY ============ -->
 ## 📈 Activity
 
@@ -105,34 +136,6 @@ $ ./status --now
   <img src="https://raw.githubusercontent.com/WaterKansuza/WaterKansuza/output/github-snake-dark.svg" alt="snake" width="100%" />
 </p>
 
-<!-- ============ TROPHIES ============ -->
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WaterKansuza&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="trophies" />
-</p> -->
-
-<p align="center"><img src="data/divider.svg" width="100%" alt="" /></p>
-
-<!-- ============ CODING PROFILES ============ -->
-## 🧩 Competitive Programming
-
-<div align="center">
-
-<a href="https://leetcode.com/u/WaterKansuza/">
-  <img src="https://leetcard.jacoblin.cool/WaterKansuza?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats" />
-</a>
-
-<!-- <a href="https://www.hackerrank.com/profile/WaterKansuza">
-  <img src="data/badge-python.svg" width="90" alt="HackerRank Python 4-star badge" />
-</a> -->
-
-<a href="https://www.hackerrank.com/profile/WaterKansuza">
-  <img src="https://img.shields.io/badge/HackerRank-WaterKansuza-58A6FF?style=for-the-badge&logo=hackerrank&logoColor=0D1117&labelColor=0D1117" alt="HackerRank" />
-</a>
-<a href="http://oj.28tech.com.vn/user/WaterKansuza">
-  <img src="https://img.shields.io/badge/28tech%20OJ-WaterKansuza-58A6FF?style=for-the-badge&labelColor=0D1117" alt="28tech OJ" />
-</a>
-
-</div>
 
 <p align="center"><img src="data/divider.svg" width="100%" alt="" /></p>
 
