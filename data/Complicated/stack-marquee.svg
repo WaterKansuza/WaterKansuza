@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="50" viewBox="0 0 1000 50">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="0.12" stop-color="#fff"/>
+      <stop offset="0.88" stop-color="#fff"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <mask id="m"><rect width="1000" height="50" fill="url(#fade)"/></mask>
+  </defs>
+  <g mask="url(#m)">
+    <g>
+      <text x="0" y="32" textLength="1000" lengthAdjust="spacing"
+            font-family="'Courier New', monospace" font-size="20" font-weight="700" fill="#58A6FF">PYTHON  &#9670;  C  &#9670;  C++  &#9670;  JAVASCRIPT  &#9670;  HTML  &#9670;  CSS  &#9670;  GIT  &#9670;  AUTOHOTKEY  &#9670;  </text>
+      <text x="1000" y="32" textLength="1000" lengthAdjust="spacing"
+            font-family="'Courier New', monospace" font-size="20" font-weight="700" fill="#58A6FF">PYTHON  &#9670;  C  &#9670;  C++  &#9670;  JAVASCRIPT  &#9670;  HTML  &#9670;  CSS  &#9670;  GIT  &#9670;  AUTOHOTKEY  &#9670;  </text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1000 0" dur="22s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
