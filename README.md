@@ -82,15 +82,6 @@ I care about clean structure, solid fundamentals, and understanding how systems 
   <!-- Thêm huy hiệu khác: lưu SVG vào data/ rồi copy khối <a> ở trên -->
 </p>
 
-<p>
-  <a href="https://www.hackerrank.com/profile/WaterKansuza">
-    <img src="https://img.shields.io/badge/HackerRank-WaterKansuza-58A6FF?style=for-the-badge&logo=hackerrank&logoColor=0D1117&labelColor=0D1117" alt="HackerRank" />
-  </a>
-  <a href="http://oj.28tech.com.vn/user/WaterKansuza">
-    <img src="https://img.shields.io/badge/28tech%20OJ-WaterKansuza-58A6FF?style=for-the-badge&labelColor=0D1117" alt="28tech OJ" />
-  </a>
-</p>
-
 <!-- ============ CONNECT ============ -->
 ## Connect
 
