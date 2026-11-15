@@ -121,9 +121,9 @@ $ ./status --now
   <img src="https://leetcard.jacoblin.cool/WaterKansuza?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats" />
 </a>
 
-<a href="https://www.hackerrank.com/profile/WaterKansuza">
+<!-- <a href="https://www.hackerrank.com/profile/WaterKansuza">
   <img src="data/badge-python.svg" width="90" alt="HackerRank Python 4-star badge" />
-</a>
+</a> -->
 
 <a href="https://www.hackerrank.com/profile/WaterKansuza">
   <img src="https://img.shields.io/badge/HackerRank-WaterKansuza-58A6FF?style=for-the-badge&logo=hackerrank&logoColor=0D1117&labelColor=0D1117" alt="HackerRank" />
