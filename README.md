@@ -75,12 +75,12 @@ I care about clean structure, solid fundamentals, and understanding how systems 
   <img src="https://leetcard.jacoblin.cool/WaterKansuza?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats" />
 </a>
 
-<p>
+<!-- <p>
   <a href="https://www.hackerrank.com/profile/WaterKansuza">
     <img src="data/badge-python.svg" width="90" alt="HackerRank Python 4-star badge" />
-  </a>
+  </a> -->
   <!-- Thêm huy hiệu khác: lưu SVG vào data/ rồi copy khối <a> ở trên -->
-</p>
+<!-- </p> -->
 
 <!-- ============ CONNECT ============ -->
 ## Connect
