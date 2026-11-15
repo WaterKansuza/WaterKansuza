@@ -85,9 +85,9 @@ I care about clean structure, solid fundamentals, and understanding how systems 
 <!-- </p> -->
 
 <!-- ============ CONNECT ============ -->
-## Connect
+<h2 align="center">Connect</h2>
 
-<p>
+<p align="center">
   <a href="https://github.com/WaterKansuza"><img src="https://img.shields.io/badge/GitHub-58A6FF?style=flat-square&logo=github&logoColor=0D1117&labelColor=0D1117" alt="GitHub" /></a>
   <a href="https://leetcode.com/u/WaterKansuza/"><img src="https://img.shields.io/badge/LeetCode-58A6FF?style=flat-square&logo=leetcode&logoColor=0D1117&labelColor=0D1117" alt="LeetCode" /></a>
   <a href="https://www.hackerrank.com/profile/WaterKansuza"><img src="https://img.shields.io/badge/HackerRank-58A6FF?style=flat-square&logo=hackerrank&logoColor=0D1117&labelColor=0D1117" alt="HackerRank" /></a>
