@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="data/header.svg" alt="Doan Quang" width="100%" />
+  <img src="data/header.svg" alt="Doan Quang" width="100%"/>
 </p>
 
 <p align="center">
