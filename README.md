@@ -38,9 +38,8 @@ I care about clean structure, solid fundamentals, and understanding how systems 
 </a>
 
 **[EduHub](https://github.com/WaterKansuza/eduhub)**: a learning-management web app for students.
-
+<p>Most use Languages: </p>
 <p>
-  <p>Most use Languages: </p>
   <img src="https://img.shields.io/badge/JavaScript-58A6FF?style=flat-square&logo=javascript&logoColor=0D1117&labelColor=0D1117" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML-58A6FF?style=flat-square&logo=html5&logoColor=0D1117&labelColor=0D1117" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-58A6FF?style=flat-square&logo=css3&logoColor=0D1117&labelColor=0D1117" alt="CSS" />
