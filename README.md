@@ -71,9 +71,11 @@ I care about clean structure, solid fundamentals, and understanding how systems 
 <!-- ============ CODING PROFILES ============ -->
 <h2 align="center">Competitive Programming</h2> 
 
-<a href="https://leetcode.com/u/WaterKansuza/" align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/WaterKansuza?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats" />
-</a>
+<p align="center">
+  <a href="https://leetcode.com/u/WaterKansuza/">
+    <img src="https://leetcard.jacoblin.cool/WaterKansuza?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats" />
+  </a>
+</p>
 
 <!-- <p>
   <a href="https://www.hackerrank.com/profile/WaterKansuza">
