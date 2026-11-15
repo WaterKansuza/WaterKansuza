@@ -64,14 +64,14 @@ I care about clean structure, solid fundamentals, and understanding how systems 
 -->
 
 <!-- ============ STREAK ============ -->
-<p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=WaterKansuza&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&stroke=30363D&border=30363D" alt="streak" />
 </p>
 
 <!-- ============ CODING PROFILES ============ -->
 ## Competitive Programming
 
-<a href="https://leetcode.com/u/WaterKansuza/">
+<a href="https://leetcode.com/u/WaterKansuza/" align="center">
   <img src="https://leetcard.jacoblin.cool/WaterKansuza?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats" />
 </a>
 
