@@ -24,8 +24,8 @@ I care about clean structure, solid fundamentals, and understanding how systems 
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,git&theme=dark" alt="tech stack" />
-  <img src="https://img.shields.io/badge/AutoHotkey-58A6FF?style=for-the-badge&logo=autohotkey&logoColor=0D1117&labelColor=0D1117" alt="AutoHotkey" height="48" />
 </p>
+<img src="https://img.shields.io/badge/AutoHotkey-58A6FF?style=for-the-badge&logo=autohotkey&logoColor=0D1117&labelColor=0D1117" alt="AutoHotkey" height="48" />
 
 <!-- Thêm sau khi bạn bắt đầu dùng: Node.js, PostgreSQL, Docker, AWS, Linux, ...
      Ví dụ icon: node,postgres,docker,aws,linux,nginx -->
