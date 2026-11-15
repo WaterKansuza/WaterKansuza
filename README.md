@@ -89,9 +89,9 @@ $ ./status --now
   <img src="https://streak-stats.demolab.com?user=WaterKansuza&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&stroke=30363D&border=30363D" alt="streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WaterKansuza&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" width="100%" />
-</p>
+</p> -->
 
 <!-- GitHub Stats và Top Languages (đang tắt, bỏ comment để bật):
 <p align="center">
@@ -106,9 +106,9 @@ $ ./status --now
 </p>
 
 <!-- ============ TROPHIES ============ -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=WaterKansuza&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="trophies" />
-</p>
+</p> -->
 
 <p align="center"><img src="data/divider.svg" width="100%" alt="" /></p>
 
